@@ -17,6 +17,10 @@ $ yarn global add log-hyeonsu
 $ log-hyeonsu
 ```
 
+### BOOM
+
+![result](./asset/result.png)
+
 # uninstall
 
 ```
