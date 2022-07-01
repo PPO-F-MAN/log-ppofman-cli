@@ -88,7 +88,7 @@ function logSaint () {
   console.log(chalk.bgBlue('❤ saint ❤'))
 }
 
-export default {
+export {
   logHyeonsu,
   logJune,
   logChoonti,
