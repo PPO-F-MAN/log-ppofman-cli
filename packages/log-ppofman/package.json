@@ -5,7 +5,7 @@
   "author": "정현수 <54893898+junghyeonsu@users.noreply.github.com>",
   "homepage": "https://github.com/junghyeonsu/command-line-library#readme",
   "license": "ISC",
-  "main": "lib/log-hyeonsu.js",
+  "main": "lib/log-ppofman.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -26,7 +26,8 @@
     "log-pposong": "lib/log-pposong.js",
     "log-dante": "lib/log-dante.js",
     "log-saint": "lib/log-saint.js",
-    "log-june": "lib/log-june.js"
+    "log-june": "lib/log-june.js",
+    "log-ppofman": "lib/log-ppofman.js"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"

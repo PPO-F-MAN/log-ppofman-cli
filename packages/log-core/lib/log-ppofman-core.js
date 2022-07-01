@@ -87,3 +87,13 @@ export function logSaint () {
   console.log(chalk.bgGreen('❤ saint ❤'))
   console.log(chalk.bgBlue('❤ saint ❤'))
 }
+
+export function logPpofman () {
+  logJune();
+  logChoonti();
+  logAyaan();
+  logDana();
+  logPposong();
+  logDante();
+  logSaint();
+}
