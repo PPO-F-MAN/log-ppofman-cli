@@ -1,5 +1,5 @@
 {
-  "name": "log-hyeonsu",
+  "name": "log-ppofman",
   "version": "1.0.3",
   "description": "> TODO: description",
   "author": "정현수 <54893898+junghyeonsu@users.noreply.github.com>",
@@ -19,7 +19,14 @@
     "url": "git+https://github.com/junghyeonsu/command-line-library.git"
   },
   "bin": {
-    "log-hyeonsu": "lib/log-hyeonsu.js"
+    "log-hyeonsu": "lib/log-hyeonsu.js",
+    "log-choonti": "lib/log-choonti.js",
+    "log-dana": "lib/log-dana.js",
+    "log-ayaan": "lib/log-ayaan.js",
+    "log-pposong": "lib/log-pposong.js",
+    "log-dante": "lib/log-dante.js",
+    "log-saint": "lib/log-saint.js",
+    "log-june": "lib/log-june.js"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
@@ -29,6 +36,6 @@
   },
   "dependencies": {
     "commander": "^9.3.0",
-    "log-hyeonsu-core": "^1.0.3"
+    "log-ppofman-core": "^1.0.3"
   }
 }

@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
 import { program } from 'commander'
-import LogHyeonsuCore from 'log-hyeonsu-core'
+import { logSaint } from 'log-ppofman-core'
 
 // action
-program.action(cmd => LogHyeonsuCore())
+program.action(cmd => logSaint())
 
 program.parse(process.argv)
