@@ -1,6 +1,6 @@
 {
   "name": "log-hyeonsu",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "정현수 <54893898+junghyeonsu@users.noreply.github.com>",
   "homepage": "https://github.com/junghyeonsu/command-line-library#readme",
@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "commander": "^9.3.0",
-    "log-hyeonsu-core": "^1.0.1"
+    "log-hyeonsu-core": "^1.0.3"
   }
 }
