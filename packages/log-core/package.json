@@ -1,0 +1,31 @@
+{
+  "name": "log-hyeonsu-core",
+  "version": "1.0.0",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
+  "author": "정현수 <54893898+junghyeonsu@users.noreply.github.com>",
+  "license": "ISC",
+  "main": "lib/log-hyeonsu-core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "type": "module",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junghyeonsu/command-line-library.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/junghyeonsu/command-line-library/issues"
+  },
+  "homepage": "https://github.com/junghyeonsu/command-line-library#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
