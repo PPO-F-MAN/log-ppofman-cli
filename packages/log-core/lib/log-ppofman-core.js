@@ -1,6 +1,6 @@
 import chalk from 'chalk'
 
-function logHyeonsu () {
+export function logHyeonsu () {
   console.log(chalk.red('❤ hyeonsu ❤'))
   console.log(chalk.yellow('❤ hyeonsu ❤'))
   console.log(chalk.green('❤ hyeonsu ❤'))
@@ -11,7 +11,7 @@ function logHyeonsu () {
   console.log(chalk.bgBlue('❤ hyeonsu ❤'))
 }
 
-function logJune () {
+export function logJune () {
   console.log(chalk.red('❤ june ❤'))
   console.log(chalk.yellow('❤ june ❤'))
   console.log(chalk.green('❤ june ❤'))
@@ -22,7 +22,7 @@ function logJune () {
   console.log(chalk.bgBlue('❤ june ❤'))
 }
 
-function logChoonti () {
+export function logChoonti () {
   console.log(chalk.red('❤ choonti ❤'))
   console.log(chalk.yellow('❤ choonti ❤'))
   console.log(chalk.green('❤ choonti ❤'))
@@ -33,7 +33,7 @@ function logChoonti () {
   console.log(chalk.bgBlue('❤ choonti ❤'))
 }
 
-function logDante () {
+export function logDante () {
   console.log(chalk.red('❤ dante ❤'))
   console.log(chalk.yellow('❤ dante ❤'))
   console.log(chalk.green('❤ dante ❤'))
@@ -44,7 +44,7 @@ function logDante () {
   console.log(chalk.bgBlue('❤ dante ❤'))
 }
 
-function logAyaan () {
+export function logAyaan () {
   console.log(chalk.red('❤ ayaan ❤'))
   console.log(chalk.yellow('❤ ayaan ❤'))
   console.log(chalk.green('❤ ayaan ❤'))
@@ -55,7 +55,7 @@ function logAyaan () {
   console.log(chalk.bgBlue('❤ ayaan ❤'))
 }
 
-function logPposong () {
+export function logPposong () {
   console.log(chalk.red('❤ pposong ❤'))
   console.log(chalk.yellow('❤ pposong ❤'))
   console.log(chalk.green('❤ pposong ❤'))
@@ -66,7 +66,7 @@ function logPposong () {
   console.log(chalk.bgBlue('❤ pposong ❤'))
 }
 
-function logDana () {
+export function logDana () {
   console.log(chalk.red('❤ dana ❤'))
   console.log(chalk.yellow('❤ dana ❤'))
   console.log(chalk.green('❤ dana ❤'))
@@ -77,7 +77,7 @@ function logDana () {
   console.log(chalk.bgBlue('❤ dana ❤'))
 }
 
-function logSaint () {
+export function logSaint () {
   console.log(chalk.red('❤ saint ❤'))
   console.log(chalk.yellow('❤ saint ❤'))
   console.log(chalk.green('❤ saint ❤'))
@@ -86,15 +86,4 @@ function logSaint () {
   console.log(chalk.bgYellow('❤ saint ❤'))
   console.log(chalk.bgGreen('❤ saint ❤'))
   console.log(chalk.bgBlue('❤ saint ❤'))
-}
-
-export {
-  logHyeonsu,
-  logJune,
-  logChoonti,
-  logDante,
-  logAyaan,
-  logDana,
-  logPposong,
-  logSaint
 }
